@@ -1,0 +1,11 @@
+C:\Users\staylor\Documents\ParseIt\ParseIt\bin\Debug\netcoreapp2.1\ParseIt.deps.json
+C:\Users\staylor\Documents\ParseIt\ParseIt\bin\Debug\netcoreapp2.1\ParseIt.runtimeconfig.json
+C:\Users\staylor\Documents\ParseIt\ParseIt\bin\Debug\netcoreapp2.1\ParseIt.runtimeconfig.dev.json
+C:\Users\staylor\Documents\ParseIt\ParseIt\bin\Debug\netcoreapp2.1\ParseIt.dll
+C:\Users\staylor\Documents\ParseIt\ParseIt\bin\Debug\netcoreapp2.1\ParseIt.pdb
+C:\Users\staylor\Documents\ParseIt\ParseIt\obj\Debug\netcoreapp2.1\ParseIt.AssemblyInfoInputs.cache
+C:\Users\staylor\Documents\ParseIt\ParseIt\obj\Debug\netcoreapp2.1\ParseIt.AssemblyInfo.cs
+C:\Users\staylor\Documents\ParseIt\ParseIt\obj\Debug\netcoreapp2.1\ParseIt.csproj.CoreCompileInputs.cache
+C:\Users\staylor\Documents\ParseIt\ParseIt\obj\Debug\netcoreapp2.1\ParseIt.dll
+C:\Users\staylor\Documents\ParseIt\ParseIt\obj\Debug\netcoreapp2.1\ParseIt.pdb
+C:\Users\staylor\Documents\ParseIt\ParseIt\obj\Debug\netcoreapp2.1\ParseIt.genruntimeconfig.cache
